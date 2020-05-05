@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c0b0d06-40d0-4aa7-85f0-c2ba3c6d0194" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="_6225_hw1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQhqEfzwCvCYoLwc1mKz7TVFC8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580984251443" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.MidtermSectionTwo">
+    <configuration name="DisplayPhotoDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DisplayPhotoDetails" />
+      <module name="_6225_hw1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FIFO_sqs_IPAddr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIFO_sqs_IPAddr" />
+      <module name="_6225_hw1" />
+      <option name="PROGRAM_PARAMETERS" value="192.168.0.1 192.168.0.2 192.168.0.3 192.168.0.4 192.168.0.5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MidtermSectionTwo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidtermSectionTwo" />
+      <module name="_6225_hw1" />
+      <option name="PROGRAM_PARAMETERS" value="my-software.extension" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoUploadS3v2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhotoUploadS3v2" />
+      <module name="_6225_hw1" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Desktop/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoUpload_s3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhotoUpload_s3" />
+      <module name="_6225_hw1" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Desktop/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[Local] LambdaHandler" type="aws.lambda" factoryName="Local">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="us-east-2" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="LambdaHandler" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" value="java8" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" value="{&#10;  &quot;Records&quot;: [&#10;    {&#10;      &quot;eventVersion&quot;: &quot;2.0&quot;,&#10;      &quot;eventSource&quot;: &quot;aws:s3&quot;,&#10;      &quot;awsRegion&quot;: &quot;us-east-2&quot;,&#10;      &quot;eventTime&quot;: &quot;1970-01-01T00:00:00Z&quot;,&#10;      &quot;eventName&quot;: &quot;ObjectCreated:Put&quot;,&#10;      &quot;userIdentity&quot;: {&#10;        &quot;principalId&quot;: &quot;EXAMPLE&quot;&#10;      },&#10;      &quot;requestParameters&quot;: {&#10;        &quot;sourceIPAddress&quot;: &quot;127.0.0.1&quot;&#10;      },&#10;      &quot;responseElements&quot;: {&#10;        &quot;x-amz-request-id&quot;: &quot;EXAMPLE123456789&quot;,&#10;        &quot;x-amz-id-2&quot;: &quot;EXAMPLE123/5678abcdefghijklambdaisawesome/mnopqrstuvwxyzABCDEFGH&quot;&#10;      },&#10;      &quot;s3&quot;: {&#10;        &quot;s3SchemaVersion&quot;: &quot;1.0&quot;,&#10;        &quot;configurationId&quot;: &quot;testConfigRule&quot;,&#10;        &quot;bucket&quot;: {&#10;          &quot;name&quot;: &quot;cloud6225assignment2&quot;,&#10;          &quot;ownerIdentity&quot;: {&#10;            &quot;principalId&quot;: &quot;EXAMPLE&quot;&#10;          },&#10;          &quot;arn&quot;: &quot;arn:{partition}:s3:::mybucket&quot;&#10;        },&#10;        &quot;object&quot;: {&#10;          &quot;key&quot;: &quot;IMG_8641.JPG&quot;,&#10;          &quot;size&quot;: 1024,&#10;          &quot;eTag&quot;: &quot;0123456789abcdef0123456789abcdef&quot;,&#10;          &quot;sequencer&quot;: &quot;0A1B2C3D4E5F678901&quot;&#10;        }&#10;      }&#10;    }&#10;  ]&#10;}" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration name="[Remote] lambdaWithS3Bucket" type="aws.lambda" factoryName="Remote" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="us-east-2" />
+      <option name="functionName" value="lambdaWithS3Bucket" />
+      <option name="input" value="{&#10;  &quot;Records&quot;: [&#10;    {&#10;      &quot;eventVersion&quot;: &quot;2.0&quot;,&#10;      &quot;eventSource&quot;: &quot;aws:s3&quot;,&#10;      &quot;awsRegion&quot;: &quot;us-west-2&quot;,&#10;      &quot;eventTime&quot;: &quot;1970-01-01T00:00:00Z&quot;,&#10;      &quot;eventName&quot;: &quot;ObjectCreated:Put&quot;,&#10;      &quot;userIdentity&quot;: {&#10;        &quot;principalId&quot;: &quot;EXAMPLE&quot;&#10;      },&#10;      &quot;requestParameters&quot;: {&#10;        &quot;sourceIPAddress&quot;: &quot;127.0.0.1&quot;&#10;      },&#10;      &quot;responseElements&quot;: {&#10;        &quot;x-amz-request-id&quot;: &quot;EXAMPLE123456789&quot;,&#10;        &quot;x-amz-id-2&quot;: &quot;EXAMPLE123/5678abcdefghijklambdaisawesome/mnopqrstuvwxyzABCDEFGH&quot;&#10;      },&#10;      &quot;s3&quot;: {&#10;        &quot;s3SchemaVersion&quot;: &quot;1.0&quot;,&#10;        &quot;configurationId&quot;: &quot;testConfigRule&quot;,&#10;        &quot;bucket&quot;: {&#10;          &quot;name&quot;: &quot;cloudcomputing6225assignment2&quot;,&#10;          &quot;ownerIdentity&quot;: {&#10;            &quot;principalId&quot;: &quot;EXAMPLE&quot;&#10;          },&#10;          &quot;arn&quot;: &quot;arn:{partition}:s3:::mybucket&quot;&#10;        },&#10;        &quot;object&quot;: {&#10;          &quot;key&quot;: &quot;IMG_8641.JPG&quot;,&#10;          &quot;size&quot;: 1024,&#10;          &quot;eTag&quot;: &quot;0123456789abcdef0123456789abcdef&quot;,&#10;          &quot;sequencer&quot;: &quot;0A1B2C3D4E5F678901&quot;&#10;        }&#10;      }&#10;    }&#10;  ]&#10;}" />
+      <option name="inputIsFile" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PhotoUploadS3v2" />
+      <item itemvalue="Application.FIFO_sqs_IPAddr" />
+      <item itemvalue="Application.PhotoUpload_s3" />
+      <item itemvalue="Application.DisplayPhotoDetails" />
+      <item itemvalue="AWS Lambda.[Local] LambdaHandler" />
+      <item itemvalue="AWS Lambda.[Remote] lambdaWithS3Bucket" />
+      <item itemvalue="Application.MidtermSectionTwo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DisplayPhotoDetails" />
+        <item itemvalue="AWS Lambda.[Remote] lambdaWithS3Bucket" />
+        <item itemvalue="Application.PhotoUpload_s3" />
+        <item itemvalue="Application.FIFO_sqs_IPAddr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c0b0d06-40d0-4aa7-85f0-c2ba3c6d0194" name="Default Changelist" comment="" />
+      <created>1579461765758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579461765758</updated>
+      <workItem from="1579461767608" duration="1732000" />
+      <workItem from="1579487127562" duration="10909000" />
+      <workItem from="1580862068192" duration="11000" />
+      <workItem from="1580862166802" duration="29590000" />
+      <workItem from="1580984422386" duration="272000" />
+      <workItem from="1580984705932" duration="18031000" />
+      <workItem from="1581739008085" duration="791000" />
+      <workItem from="1581740216780" duration="60000" />
+      <workItem from="1581742171157" duration="626000" />
+      <workItem from="1581743599111" duration="266000" />
+      <workItem from="1581744249343" duration="829000" />
+      <workItem from="1582759265792" duration="507000" />
+      <workItem from="1582776586462" duration="1601000" />
+      <workItem from="1582778651582" duration="1180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="109" width="1000" height="891" key="#Intentions" timestamp="1580989334704">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="109" width="1000" height="891" key="#Intentions/0.0.1680.1050@0.0.1680.1050" timestamp="1580989334704" />
+    <state x="340" y="109" key="#Notifications" timestamp="1581022184268">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="109" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1581022184268" />
+    <state x="462" y="134" key="#PhotoUploadS3v2" timestamp="1581028728216">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="462" y="134" key="#PhotoUploadS3v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581028728216" />
+    <state x="340" y="109" key="#Project_Structure" timestamp="1581022682591">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="109" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1581022682591" />
+    <state x="208" y="23" width="781" height="1027" key="#[Local]_LambdaHandler" timestamp="1581028304001">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="208" y="23" key="#[Local]_LambdaHandler/0.0.1680.1050@0.0.1680.1050" timestamp="1581028304001" />
+    <state x="620" y="23" width="781" height="1027" key="#[Local]_LambdaHandler/0.23.1680.1027@0.23.1680.1027" timestamp="1580984785206" />
+    <state x="486" y="134" key="#[Remote]_lambdaWithS3Bucket" timestamp="1581021336217">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="486" y="134" key="#[Remote]_lambdaWithS3Bucket/0.0.1680.1050@0.0.1680.1050" timestamp="1581021336217" />
+    <state x="304" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582778006902">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582778006902" />
+    <state x="528" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580984433695">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="528" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580984433695" />
+    <state x="462" y="134" key="#midtermSectionTwo" timestamp="1582777899589">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="462" y="134" key="#midtermSectionTwo/0.0.1680.1050@0.0.1680.1050" timestamp="1582777899589" />
+    <state width="1628" height="171" key="GridCell.Tab.0.bottom" timestamp="1582778319451">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="171" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582778319451" />
+    <state width="1628" height="462" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1580992282560" />
+    <state width="1628" height="171" key="GridCell.Tab.0.center" timestamp="1582778319450">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="171" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582778319450" />
+    <state width="1628" height="462" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1580992282559" />
+    <state width="1628" height="171" key="GridCell.Tab.0.left" timestamp="1582778319449">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="171" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582778319449" />
+    <state width="1628" height="462" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1580992282558" />
+    <state width="1628" height="171" key="GridCell.Tab.0.right" timestamp="1582778319451">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="171" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582778319451" />
+    <state width="1628" height="462" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1580992282560" />
+    <state x="265" y="107" key="Maven.ArtifactSearchDialog" timestamp="1581024891793">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="265" y="107" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581024891793" />
+    <state x="44" y="64" width="1561" height="897" key="SettingsEditor" timestamp="1582779004353">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="44" y="64" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582779004353" />
+    <state x="44" y="86" width="1561" height="897" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1580984723860" />
+    <state x="443" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1582778650527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="443" y="314" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582778650527" />
+    <state x="443" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581744256309" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1580991961316">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580991961316" />
+  </component>
+</project>
