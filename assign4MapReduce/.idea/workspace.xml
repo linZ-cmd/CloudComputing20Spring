@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="assign4MR:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99879884-8553-49aa-87cb-334e41a8678f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YfVq6p5vtg9CICjI0XFGq4tAlL" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15547703" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99879884-8553-49aa-87cb-334e41a8678f" name="Default Changelist" comment="" />
+      <created>1583333823415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583333823415</updated>
+      <workItem from="1583333825054" duration="8910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583334948444">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583334948444" />
+    <state x="582" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583375099610">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="582" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583375099610" />
+    <state x="745" y="189" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583335155335">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="745" y="189" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583335155335" />
+    <state x="515" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583372389720">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="515" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583372389720" />
+    <state x="604" y="199" key="DetectedRootsChooserDialog" timestamp="1583335118764">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="604" y="199" key="DetectedRootsChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583335118764" />
+    <state x="265" y="107" key="Maven.ArtifactSearchDialog" timestamp="1583334966924">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="265" y="107" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583334966924" />
+    <state x="200" y="23" width="1415" height="1027" key="SettingsEditor" timestamp="1583375102174">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="200" y="23" width="1415" height="1027" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583375102174" />
+    <state x="539" y="420" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583334895868">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="539" y="420" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050@0.0.1680.1050" timestamp="1583334895868" />
+  </component>
+</project>
